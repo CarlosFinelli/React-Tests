@@ -1,0 +1,48 @@
+[
+
+    {
+        "id":1,
+        "produto":"Mouse",
+        "valor":19.90,
+        "img":"",
+        "promocao":true,
+        "status":1
+    },
+
+    {
+        "id": 2,
+        "produto": "Teclado",
+        "valor": 39.90,
+        "img": "",
+        "promocao":true,
+        "status":1
+    },
+
+    {
+        "id": 3,
+        "produto": "Monitor",
+        "valor": 699.90,
+        "img": "",
+        "promocao":false,
+        "status":1
+    },
+
+    {
+        "id": 4,
+        "produto": "CPU",
+        "valor": 599.90,
+        "img": "",
+        "promocao":false,
+        "status":1
+    },
+
+    {
+        "id": 5,
+        "produto": "Fone",
+        "valor": 89.90,
+        "img": "",
+        "promocao":false,
+        "status":1
+    }
+
+]
